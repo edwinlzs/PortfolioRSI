@@ -1,4 +1,4 @@
-Current version is fixed to calculating 14-day RSI
+Current version is fixed at calculating 14-day RSI
 
 required libraries
 1) pip install yfinance --upgrade --no-cache-dir
